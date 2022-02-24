@@ -15,7 +15,7 @@ Questions:
 They gave us an e-mail for questions which is: tutoratoinformatica@uniud.it
 A guy named Daniele responded us. He seems to be very nice and speaks proper English.
 
-#### == Overview of classes ==
+#### == OVERVIEW OF CLASSES ==
 To get to a overview of courses that are available for us after login on the home page do the following: 
 
 1. Click on the hamburger menu in the right upper corner
@@ -23,7 +23,7 @@ To get to a overview of courses that are available for us after login on the hom
 3. Then on <mark style="background: #ADCCFFA6;">libretto</mark> 
 4. Then one should see an overview of courses that we can take.
 
-#### == enrollment into exams ==
+#### == ENROLLMENT INTO EXAMS ==
 To enroll into a exam that is available for us, after login on the home page do the following: 
 
 1. Click on the hamburger menu in the right upper corner
