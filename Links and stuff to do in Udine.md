@@ -8,8 +8,8 @@ Website to the timetable:
 [Timetable](https://planner.uniud.it/PortaleStudenti/index.php?view=easycourse&form-type=corso&include=corso&txtcurr=1+-+PERCORSO+COMUNE&anno=2021&corso=818&anno2%5B%5D=818-9999%7C1&visualizzazione_orario=cal&date=28-03-2022&periodo_didattico=&_lang=en&list=0&week_grid_type=-1&ar_codes_=&ar_select_=&col_cells=0&empty_box=0&only_grid=0&highlighted_date=0&all_events=0&faculty_group=0# "https://planner.uniud.it/PortaleStudenti/index.php?view=easycourse&form-type=corso&include=corso&txtcurr=1+-+PERCORSO+COMUNE&anno=2021&corso=818&anno2%5B%5D=818-9999%7C1&visualizzazione_orario=cal&date=28-03-2022&periodo_didattico=&_lang=en&list=0&week_grid_type=-1&ar_codes_=&ar_select_=&col_cells=0&empty_box=0&only_grid=0&highlighted_date=0&all_events=0&faculty_group=0#")
 
 
-Effe3:
-[Effe3](https://idp.uniud.it/idp/profile/SAML2/Redirect/SSO?execution=e1s2)
+Esse3:
+[Esse3](https://uniud.esse3.cineca.it/Home.do)
 
 Questions:
 They gave us an e-mail for questions which is: tutoratoinformatica@uniud.it
