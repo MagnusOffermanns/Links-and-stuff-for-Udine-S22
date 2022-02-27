@@ -35,3 +35,5 @@ To enroll into a exam that is available for us, after login on the home page do 
 
 
 ## FAQ
+-  <mark style="background: #FF5582A6;"> Question:</mark> Is it possible for us exchange students to enroll in classes that are currently not visible in Esse3? Should we just write the concerning professor to enroll us?
+-  <mark style="background: #014E11F2;"> Answer by tutoratoinformatica</mark> : Yes you can participate in class without having them in esse3. You can email the professor to make sure he’s prepared to have foreigners students.
