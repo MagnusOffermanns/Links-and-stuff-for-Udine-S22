@@ -1,0 +1,3 @@
+---
+aliases: RAM, memory, buffer
+---
